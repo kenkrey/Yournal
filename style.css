@@ -187,3 +187,6 @@ dd {
     font-weight: 700 !important;
     letter-spacing: 1.5px;
 }
+audio{
+  padding-left: 28px;
+}
